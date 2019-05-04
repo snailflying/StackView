@@ -1,0 +1,10 @@
+<resources>
+
+
+    <declare-styleable name="StackView">
+        <attr name="visibleCount" format="integer"/>
+        <attr name="animDuration" format="integer"/>
+        <attr name="offset" format="dimension"/>
+        <attr name="scale" format="float"/>
+    </declare-styleable>
+</resources>
